@@ -16,4 +16,4 @@ Features
  
 Live Demo
 ---------
-[View Live Site](applewebsite-clone-ui.vercel.app)
+[View Live Site](https://applewebsite-clone-ui.vercel.app/)
